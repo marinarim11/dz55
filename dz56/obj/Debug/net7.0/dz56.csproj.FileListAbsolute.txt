@@ -1,0 +1,15 @@
+/Users/marinagrecko/Desktop/mass/dz56/bin/Debug/net7.0/dz56
+/Users/marinagrecko/Desktop/mass/dz56/bin/Debug/net7.0/dz56.deps.json
+/Users/marinagrecko/Desktop/mass/dz56/bin/Debug/net7.0/dz56.runtimeconfig.json
+/Users/marinagrecko/Desktop/mass/dz56/bin/Debug/net7.0/dz56.dll
+/Users/marinagrecko/Desktop/mass/dz56/bin/Debug/net7.0/dz56.pdb
+/Users/marinagrecko/Desktop/mass/dz56/obj/Debug/net7.0/dz56.csproj.AssemblyReference.cache
+/Users/marinagrecko/Desktop/mass/dz56/obj/Debug/net7.0/dz56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagrecko/Desktop/mass/dz56/obj/Debug/net7.0/dz56.AssemblyInfoInputs.cache
+/Users/marinagrecko/Desktop/mass/dz56/obj/Debug/net7.0/dz56.AssemblyInfo.cs
+/Users/marinagrecko/Desktop/mass/dz56/obj/Debug/net7.0/dz56.csproj.CoreCompileInputs.cache
+/Users/marinagrecko/Desktop/mass/dz56/obj/Debug/net7.0/dz56.dll
+/Users/marinagrecko/Desktop/mass/dz56/obj/Debug/net7.0/refint/dz56.dll
+/Users/marinagrecko/Desktop/mass/dz56/obj/Debug/net7.0/dz56.pdb
+/Users/marinagrecko/Desktop/mass/dz56/obj/Debug/net7.0/dz56.genruntimeconfig.cache
+/Users/marinagrecko/Desktop/mass/dz56/obj/Debug/net7.0/ref/dz56.dll

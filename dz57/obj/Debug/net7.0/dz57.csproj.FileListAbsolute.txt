@@ -1,0 +1,15 @@
+/Users/marinagrecko/Desktop/mass/dz57/bin/Debug/net7.0/dz57
+/Users/marinagrecko/Desktop/mass/dz57/bin/Debug/net7.0/dz57.deps.json
+/Users/marinagrecko/Desktop/mass/dz57/bin/Debug/net7.0/dz57.runtimeconfig.json
+/Users/marinagrecko/Desktop/mass/dz57/bin/Debug/net7.0/dz57.dll
+/Users/marinagrecko/Desktop/mass/dz57/bin/Debug/net7.0/dz57.pdb
+/Users/marinagrecko/Desktop/mass/dz57/obj/Debug/net7.0/dz57.csproj.AssemblyReference.cache
+/Users/marinagrecko/Desktop/mass/dz57/obj/Debug/net7.0/dz57.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagrecko/Desktop/mass/dz57/obj/Debug/net7.0/dz57.AssemblyInfoInputs.cache
+/Users/marinagrecko/Desktop/mass/dz57/obj/Debug/net7.0/dz57.AssemblyInfo.cs
+/Users/marinagrecko/Desktop/mass/dz57/obj/Debug/net7.0/dz57.csproj.CoreCompileInputs.cache
+/Users/marinagrecko/Desktop/mass/dz57/obj/Debug/net7.0/dz57.dll
+/Users/marinagrecko/Desktop/mass/dz57/obj/Debug/net7.0/refint/dz57.dll
+/Users/marinagrecko/Desktop/mass/dz57/obj/Debug/net7.0/dz57.pdb
+/Users/marinagrecko/Desktop/mass/dz57/obj/Debug/net7.0/dz57.genruntimeconfig.cache
+/Users/marinagrecko/Desktop/mass/dz57/obj/Debug/net7.0/ref/dz57.dll
